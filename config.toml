@@ -38,12 +38,17 @@ title = "Aslihan Akbiyik Blog"
   name = 'about me'
   pre = "<i class='fa fa-heart'></i>"
   url = '/about/'
-  weight = -110
+  weight = 1
+  [[menu.main]]
+  name = 'GitHub'
+  pre = "<i class='fa fa-heart'></i>"
+  url = 'https://github.com/aslihana'
+  weight = 1
 [[menu.main]]
   name = 'LinkedIn'
   pre = "<i class='fa fa-heart'></i>"
   url = 'https://linkedin.com/in/aslihanakbiyik'
-  weight = -100
+  weight = 1
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
