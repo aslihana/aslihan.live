@@ -1,7 +1,7 @@
 baseURL = "https://aslihan.live/"
 languageCode = "en-us"
 title = "Aslihan Akbiyik Blog"
-theme = "terminal"
+# theme = "terminal"
 
 [module]
   # this is needed when you fetch the theme as a submodule to your repo.
