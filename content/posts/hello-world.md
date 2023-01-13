@@ -6,11 +6,11 @@ authorTwitter = "" #do not include @
 cover = ""
 tags = ["", ""]
 keywords = ["", ""]
-description = "This is my first blog post, also test post on hugo."
+description = "This is my first blog post, also test post on hugo. For more you can check [about page](/about/)"
 showFullContent = false
 readingTime = false
 hideComments = false
 color = "" #color from the theme settings
 +++
 ## How did all start?
-I was looking for a static site generator, found out hugo. First I used ```brew install hugo```, created local folder and used ```git init``` after that i just used hugo's commands.
+I was looking for a static site generator, found out hugo. First I used ```brew install hugo```, created local folder and used ```git init``` after that i just used hugo's commands. For more you can check [about page](/about/)
