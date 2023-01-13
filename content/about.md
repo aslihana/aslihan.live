@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2023-01-13T14:49:35+03:00
-draft: true
+draft: false
 ---
 # About Me
 I had my first experience with computers via Crazy Taxi when I was about 5, I enjoyed playing games on the computer when I was a child, and at 12 when I got fascinated by the book "Digital Fortress" I decided I would study computer science. Since then my passion for computers and CS has steadily increased.
