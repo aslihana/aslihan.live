@@ -1,7 +1,7 @@
 baseURL = "https://aslihan.live/"
 languageCode = "en-us"
 title = "Aslihan Akbiyik Blog"
- theme = "terminal"
+
 
 
 [params]
@@ -51,4 +51,4 @@ title = "Aslihan Akbiyik Blog"
   # --
   # replacements = "github.com/panr/hugo-theme-terminal -> themes/terminal"
 [[module.imports]]
-  path = 'github.com/panr/hugo-theme-terminal'
+  path = 'github.com/panr/hugo-theme-terminal/v3'
