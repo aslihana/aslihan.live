@@ -12,7 +12,6 @@ readingTime = false
 hideComments = false
 color = "" #color from the theme settings
 +++
-# Keep Asking Questions for a Better Life
 
 You may always ask yourself `how it's made?`, `how did it happen?` or `how do I push myself to be better?` with some variants... and it may feel overwhelming.
 
