@@ -1,5 +1,5 @@
 +++
-title = "OT"
+title = "OT(Operasyonel Teknoloji Nedir?)"
 date = "2023-11-25T21:31:57+03:00"
 author = ""
 authorTwitter = "" #do not include @
