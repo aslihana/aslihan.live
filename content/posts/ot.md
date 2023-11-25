@@ -12,7 +12,7 @@ readingTime = false
 hideComments = false
 color = "" #color from the theme settings
 +++
-# Operasyonel Teknoloji Nedir?
+
 
 Uzun bir aranın ardından Türkçe bir yazı ile geri döndüm. Bu yazımda sizlere Türkiye'de oldukça yeni bir kavram olan Operasyonel Teknoloji'yi anlatmaya çalışacağım.
 
