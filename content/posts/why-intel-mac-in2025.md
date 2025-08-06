@@ -13,7 +13,6 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-# Why You Should Keep Using Your Intel Mac in 2025?
 
 Yes, Apple Silicon is powerful. No doubt.
 But I still use my Intel Mac every single day in 2025 — and I’m not planning to stop anytime soon.
